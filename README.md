@@ -1,3 +1,6 @@
+> [!WARNING]
+> **This project is no longer active as it is no longer funded and valuable.**
+
 # Chaser
 
 Despite the [Rucoy Online 2D MMORPG](https://www.rucoyonline.com)'s vibe, there are still a lot of scammers in the game, which amount we are striving to reduce. Using this application, it is simple to determine whether a user is a scammer.
